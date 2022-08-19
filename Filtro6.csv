@@ -1,0 +1,17 @@
+Tipo,Referencia,Fecha Alta,Operación,Provincia,Superficie,Precio Venta,Fecha Venta,Vendedor
+Parking,13,2004-01-04,Venta,Barcelona,300,2937300,2004-11-04,Jesús
+Suelo,38,2004-01-17,Alquiler,Tarragona,300,1492800,2004-12-08,Joaquín
+Piso,106,2004-02-10,Alquiler,Lleida,300,2105700,2005-01-26,Pedro
+Suelo,109,2004-02-12,Alquiler,Barcelona,300,1528200,2004-08-09,Pedro
+Suelo,391,2004-05-30,Venta,Girona,300,1483500,2005-03-29,Carmen
+Parking,1000,2004-12-24,Venta,Lleida,300,2707200,2005-10-15,Luisa
+Local,1095,2005-02-01,Venta,Barcelona,300,1772700,2006-01-03,María
+Local,1572,2005-07-18,Alquiler,Barcelona,300,1716300,2006-04-21,María
+Suelo,1583,2005-07-22,Alquiler,Girona,300,1832100,2006-05-02,Carmen
+Local,1631,2005-08-07,Alquiler,Barcelona,300,1900200,2005-12-09,Pedro
+Parking,1639,2005-08-09,Venta,Lleida,300,2155200,2006-08-05,Jesús
+Industrial,1677,2005-08-27,Venta,Lleida,300,2625600,2006-01-08,María
+Piso,1783,2005-10-03,Venta,Lleida,300,1506300,2006-04-24,Pedro
+Piso,2003,2005-12-26,Alquiler,Tarragona,300,1432500,2006-06-21,María
+Piso,2395,2006-05-10,Alquiler,Tarragona,300,2585100,2006-10-15,Luisa
+Industrial,3268,2007-04-01,Alquiler,Barcelona,300,2908500,,
