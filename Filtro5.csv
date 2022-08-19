@@ -1,0 +1,10 @@
+Tipo,Referencia,Fecha Alta,Operación,Provincia,Superficie,Precio Venta,Fecha Venta,Vendedor
+Parking,1,2004-01-01,Alquiler,Lleida,291,2133903,2004-06-19,Carmen
+Local,2,2004-01-01,Venta,Girona,199,1945424,2004-04-19,Pedro
+Oficina,3,2004-01-01,Alquiler,Girona,82,712416,2004-11-08,Joaquín
+Parking,4,2004-01-02,Alquiler,Girona,285,1815450,2004-04-27,Jesús
+Suelo,5,2004-01-02,Venta,Tarragona,152,1138024,2004-07-10,María
+Industrial,6,2004-01-03,Alquiler,Girona,131,953156,2004-09-05,Pedro
+Parking,7,2004-01-03,Alquiler,Tarragona,69,406686,2004-06-07,Pedro
+Oficina,8,2004-01-03,Venta,Girona,235,2158475,2004-10-31,Jesús
+Piso,9,2004-01-04,Alquiler,Lleida,108,1024380,2004-12-28,Jesús
